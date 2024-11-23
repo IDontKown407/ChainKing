@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/University Year 2/ChainKing/ChainKing/Content/ThirdPerson/Player/castle_guard_01_Skeleton.uasset",
+				"D:/University Year 2/ChainKing/ChainKing/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/University Year 2/ChainKing/ChainKing/Content/Chains/BP_Chain.uasset",
+				"D:/University Year 2/ChainKing/ChainKing/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
 				"C:/Users/joeyd/Desktop/ChainKing/ChainKing/ChainKing/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/X5/PR1Q7Y13CIXBJ39J3NBZKE.uasset",
 				"C:/Users/joeyd/Desktop/ChainKing/ChainKing/ChainKing/Content/Chains/BP_Chain.uasset",
 				"C:/Users/joeyd/Desktop/ChainKing/ChainKing/ChainKing/Content/Assets/chaintest.uasset",
